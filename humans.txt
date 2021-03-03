@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	Chris -- Admin -- no
     <name> -- <role> -- <twitter>
 
 # THANKS
