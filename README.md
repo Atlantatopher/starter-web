@@ -10,5 +10,7 @@ This is an intro
 Sample website with plenty of files for demos
 
 ## How to Contribute
+this is a section on how to contribute
+
 
 ## Deployment
